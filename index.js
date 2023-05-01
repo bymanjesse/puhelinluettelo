@@ -29,7 +29,7 @@ const contacts = {
   ]
 };
 
-// Cors middleware
+// Cors middlewareaaa
 app.use(cors())
 
 // Use morgan middleware to log HTTP requests to console
